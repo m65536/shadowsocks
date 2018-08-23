@@ -22,6 +22,9 @@ sudo less /var/log/shadowsocks.log
 # andriod 安装客户端
 * [https://github.com/shadowsocks/shadowsocks-android/releases](https://github.com/shadowsocks/shadowsocks-android/releases)
 
+# ios 安装客户端
+* [https://github.com/herzmut/shadowsocks-iOS](https://github.com/herzmut/shadowsocks-iOS)
+
 # mac安装客户端
 * [https://github.com/shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
 

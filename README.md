@@ -24,6 +24,7 @@ sudo less /var/log/shadowsocks.log
 
 # ios 安装客户端
 * [https://github.com/herzmut/shadowsocks-iOS](https://github.com/herzmut/shadowsocks-iOS)
+* SuperRocket
 
 # mac安装客户端
 * [https://github.com/shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)

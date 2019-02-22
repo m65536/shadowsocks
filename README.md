@@ -40,10 +40,31 @@ sslocal -c /etc/shadowsocks.json -d stop
 
 privoxy /usr/local/etc/privoxy/config
 ````
+# ubuntu install
+1. install
+```
+sudo apt-get install shadowsocks
+```
+
+2. start 
+```
+sslocal -s 11.22.33.44 -p 443 -k "123456" -l 1080 -t 600 -m aes-256-cfb
+```
+
+### background start
+1. sudo vi /etc/shadowsocks/config.json
+```
+{
+    "server":"11.22.33.44",
+    "server_port":443,
+    "local_port":1080,
+    "password":"123456",
+    "timeout":600,
+    "method":"aes-256-cfb"
+}
+```
+2. 
 
 # 其他
 官方客户端:https://shadowsocks.org/en/download/clients.html
-### Ubuntu安装
-```
 
-```

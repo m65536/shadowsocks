@@ -40,3 +40,10 @@ sslocal -c /etc/shadowsocks.json -d stop
 
 privoxy /usr/local/etc/privoxy/config
 ````
+
+# 其他
+官方客户端:https://shadowsocks.org/en/download/clients.html
+### Ubuntu安装
+```
+
+```

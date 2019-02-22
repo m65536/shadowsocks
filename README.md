@@ -63,7 +63,7 @@ sslocal -s 11.22.33.44 -p 443 -k "123456" -l 1080 -t 600 -m aes-256-cfb
     "method":"aes-256-cfb"
 }
 ```
-2. 
+2. nohup sslocal -c /etc/shadowsocks/config.json > myout.file 2>&1 &
 
 # 其他
 官方客户端:https://shadowsocks.org/en/download/clients.html

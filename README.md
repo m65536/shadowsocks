@@ -73,3 +73,5 @@ sslocal -s 11.22.33.44 -p 443 -k "123456" -l 1080 -t 600 -m aes-256-cfb
 # 其他
 官方客户端:https://shadowsocks.org/en/download/clients.html
 
+# other https://manage.greennode.biz/
+
